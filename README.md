@@ -52,7 +52,13 @@ This project demonstrates a deep learning pipeline to classify images of dogs an
 
 ### 5. Custom Image Prediction
 - Includes functionality to test the trained model on custom cat and dog images.
-- Predicts whether an image is of a dog or a cat and displays the result.
+ 
+- Predicts whether an image is of a dog or a cat and displays the result.<br>
+- Classify Cat Correctly <br>
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/84f673e7-ccf7-42d6-b2a3-827d42668781" />
+- Classify Dog Correctly <br>
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/5dccc66b-8630-4114-9722-b58238263a65" />
+
 
 ---
 
