@@ -33,10 +33,10 @@ This project demonstrates a deep learning pipeline to classify images of dogs an
 - **Before Applying Regularization:**
   - Plots show a significant gap between training and validation accuracy/loss, indicating overfitting.
 
-  - Accuracy (red) and Val_Accuracy (blue)
+  - Accuracy (red) and Val_Accuracy (blue) <br>
    ![image](https://github.com/user-attachments/assets/5c3b128b-b47c-46b5-b8ce-29bd3233273f)
-  <br>
-  - Loss (red) and Val_Loss (blue)
+  
+  - Loss (red) and Val_Loss (blue) <br>
   ![image](https://github.com/user-attachments/assets/874b748a-4ceb-49da-9f17-0988b2af7caa)
 
     
