@@ -1,6 +1,4 @@
-# Cat-and-Dog-Image-Classification-Using-CNN-Convolutional-Neural-Network
-
-# Dogs vs. Cats Image Classification
+# Cat and Dog Image Classification Using CNN (Convolutional Neural Network)
 
 ## Project Overview
 
