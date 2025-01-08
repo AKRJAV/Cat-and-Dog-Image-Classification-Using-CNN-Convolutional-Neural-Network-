@@ -43,6 +43,13 @@ This project demonstrates a deep learning pipeline to classify images of dogs an
 - **After Applying Batch Normalization and Dropout:**
   - Plots demonstrate improved generalization, with reduced overfitting and better alignment of training and validation curves.
 
+  - Accuracy (red) and Val_Accuracy (blue) <br>
+  ![image](https://github.com/user-attachments/assets/8236bc68-08ea-48dd-a077-f6dec5a2e186)
+
+  - Loss (red) and Val_Loss (blue) <br>
+  ![image](https://github.com/user-attachments/assets/963d7669-e657-4b2f-ba47-74b4f56d8e3b)
+
+
 ### 5. Custom Image Prediction
 - Includes functionality to test the trained model on custom cat and dog images.
 - Predicts whether an image is of a dog or a cat and displays the result.
