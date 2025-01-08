@@ -32,6 +32,11 @@ This project demonstrates a deep learning pipeline to classify images of dogs an
 ### 4. Overfitting Analysis
 - **Before Applying Regularization:**
   - Plots show a significant gap between training and validation accuracy/loss, indicating overfitting.
+
+   ![image](https://github.com/user-attachments/assets/5c3b128b-b47c-46b5-b8ce-29bd3233273f)
+  <br> ![image](https://github.com/user-attachments/assets/874b748a-4ceb-49da-9f17-0988b2af7caa)
+
+    
 - **After Applying Batch Normalization and Dropout:**
   - Plots demonstrate improved generalization, with reduced overfitting and better alignment of training and validation curves.
 
@@ -46,9 +51,8 @@ This project demonstrates a deep learning pipeline to classify images of dogs an
 ### Overfitting Analysis
 1. **Before Applying Regularization:**
    - Training and validation accuracy and loss curves highlight overfitting.
+  
+  
+     
 2. **After Applying Regularization:**
    - Improved curves with reduced overfitting.
-
-Place these plots in the `images` folder:
-- **Before Overfitting**: `images/before_overfitting_accuracy.png` and `images/before_overfitting_loss.png`
-- **After Regularization**: `images/after_regularization_accuracy.png` and `images/after_regularization_loss.png`
